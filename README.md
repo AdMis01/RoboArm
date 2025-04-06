@@ -1,3 +1,3 @@
 # RoboArm
 
-![Image](https://github.com/user-attachments/assets/3c0b5ef8-c493-4b24-8cd9-d1725d4b3856)
+![Image](https://github.com/user-attachments/assets/b40968fd-caa4-4240-b82b-43f7651742ed)
