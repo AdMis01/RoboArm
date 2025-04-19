@@ -23,3 +23,4 @@ Controller to control the robot arm.
 
 Link:
 - Controller inspiration: https://www.youtube.com/watch?v=5toNqaGsGYs&list=LL&index=56&t=170s
+- Working robotic arm: https://youtube.com/shorts/vqgzihW1bkI?feature=share
